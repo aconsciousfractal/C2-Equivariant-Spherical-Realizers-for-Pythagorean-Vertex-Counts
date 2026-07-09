@@ -1,0 +1,13 @@
+PASS - a+2b+c == 2m(m+2n)
+PASS - a+2b+2c == (m+n)(3m+n)
+PASS - perimeter == 2m(m+n)
+PASS - corridor a+2b+c == 2(k+1)(3k+1)
+PASS - corridor a+2b+2c == (2k+1)(4k+3)
+PASS - Bergot: B+(A+C)/2 == k(3k-2) under Euclid (k,k-1)
+PASS - A139267(k+1) == hull count, k=1..20 (20/20)
+PASS - A033567(k+1) == a+2b+2c, k=1..20 (20/20)
+PASS - A033567 offset trap: a(0),a(1) == 1,3 (not corridor values)
+PASS - A000567 contains the Bergot 2013 comment
+PASS - A139267 name is 'Twice octagonal numbers: 2*n*(3*n-2).'
+
+RESULT: ALL PASS

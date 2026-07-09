@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "C2-Equivariant Spherical Realizers for Pythagorean Vertex Counts"
+authors:
+  - family-names: "Babanskyy"
+    given-names: "Oleksiy"
+date-released: "2026-07-09"
+repository-code: "https://github.com/aconsciousfractal/C2-Equivariant-Spherical-Realizers-for-Pythagorean-Vertex-Counts"
+license: "MIT"
+preferred-citation:
+  type: unpublished
+  title: "C2-Equivariant Spherical Realizers for Pythagorean Vertex Counts: An Expository Note"
+  authors:
+    - family-names: "Babanskyy"
+      given-names: "Oleksiy"
+  year: 2026
+  notes: "Self-published expository note; the source and built PDF are in the paper/ directory of this repository. Not submitted to any journal."
